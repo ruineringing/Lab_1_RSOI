@@ -1,0 +1,11 @@
+D:\Lab_1_RSOI\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+D:\Lab_1_RSOI\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+D:\Lab_1_RSOI\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+D:\Lab_1_RSOI\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+D:\Lab_1_RSOI\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csprojResolveAssemblyReference.cache
+D:\Lab_1_RSOI\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Lab_1_RSOI\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+D:\Lab_1_RSOI\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+D:\Lab_1_RSOI\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+D:\Lab_1_RSOI\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+D:\Lab_1_RSOI\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb
